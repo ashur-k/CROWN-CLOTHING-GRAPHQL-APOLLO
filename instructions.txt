@@ -1,0 +1,25 @@
+npm start ================ yarn start
+
+1. npm install node-sass
+
+2. npm install sass-loader@latest
+
+3. nvm install latest
+
+4. nvm use 16.4.2
+
+5. npm rebuild node-sass This gave me some errors
+
+6 npm install
+
+Then everything worked like it should.
+
+react v17.0.2
+
+react-dom v17.0.2
+
+react-scripts v4.0.3
+
+sass-loader v12.1.0
+
+node-sass v6.0.1
